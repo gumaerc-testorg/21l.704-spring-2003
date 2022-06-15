@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on course readings and links to online
+  resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

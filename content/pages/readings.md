@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a course bibliography. Links are provided to online
+  versions of some of the readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
