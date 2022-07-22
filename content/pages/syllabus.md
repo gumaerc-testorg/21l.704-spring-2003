@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, seminar participation, writing, grading, and use of sources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 35a0821b-9a03-b692-f198-a62d11032d89
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Description
 -----------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/syllabus))
+Syllabus ({{% resource_link ac223460-5ec7-c8ed-25c2-6c335a5bdd6f "PDF" %}})
 
 The core of this seminar will be the great sequences of English love sonnets written by William Shakespeare, Philip Sidney, Edmund Spenser, and Mary Wroth. These poems cover an enormous amount of aesthetic and psychological ground: ranging from the utterly subjective to the entirely public or conventional, from licit to forbidden desires, they might also serve as a manual of experimentation with the resources of sound, rhythm, and figuration in poetry. Around these sequences, we will develop several other contexts, using both Renaissance texts and modern accounts: the Petrarchan literary tradition (poems by Francis Petrarch and Sir Thomas Wyatt); the social, political, and ethical uses of love poetry (seduction, getting famous, influencing policy, elevating morals, compensating for failure); other accounts of ideal masculinity and femininity (conduct manuals, theories of gender and anatomy); and the other limits of the late sixteenth century vogue for love poetry: narrative poems, pornographic poems, poems that don't work.
 
