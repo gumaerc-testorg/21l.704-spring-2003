@@ -18,7 +18,7 @@ Alighieri, Dante. _La Vita Nuova_. Edited and translated by Barbara Reynolds. Ne
 
 Gascoigne, George. _A Hundredth Sundrie Flowers._ Edited by C. T. Prouty.  Volume XVII No. 2.  Columbia: University of Missouri Press,  1964.
 
-"Luminarium" (LU) at [http://www.luminarium.org/renlit](http://www.luminarium.org/renlit)
+"Luminarium" (LU) at {{% resource_link "4bc604e9-fb1b-43f4-ab03-88d1372520b7" "http://www.luminarium.org/renlit" %}}
 
 Petrarch. "Letters." In _Petrarch and His World_. Edited and translated by Morris Bishop. Bloomington: Indiana University Press, 1963.
 
@@ -28,15 +28,15 @@ Petrarch. _Petrarch's Lyric Poems_. Edited and translated by Robert L. Durling. 
 
 Puttenham, George. _The Arte of English Poesie_. \[Kent, Ohio\]: Kent State University Press, 1971.
 
-"Renascence Editions" at [https://scholarsbank.uoregon.edu/xmlui/handle/1794/506](https://scholarsbank.uoregon.edu/xmlui/handle/1794/506)
+"Renascence Editions" at {{% resource_link "48323862-00f2-4a01-921b-b2227d393cde" "https://scholarsbank.uoregon.edu/xmlui/handle/1794/506" %}}
 
-"Representative Poetry" at [https://tspace.library.utoronto.ca/html/1807/4350/index-2.html](https://tspace.library.utoronto.ca/html/1807/4350/index-2.html)
+"Representative Poetry" at {{% resource_link "8d9b88da-22b8-4ef4-ab3f-9e70b1f6b27f" "https://tspace.library.utoronto.ca/html/1807/4350/index-2.html" %}}
 
 Shakespeare, William. _Shakespeare's Sonnets_. Edited by Stephen Booth. New Haven: Yale University Press, 2000.
 
 Sidney, Philip. _Sir Philip Sidney_. Edited by Katherine Duncan-Jones. Oxford and New York: Oxford University Press, 1994.
 
-"Sonnet Central" at [http://www.sonnets.org/eliz.htm](http://www.sonnets.org/eliz.htm)
+"Sonnet Central" at {{% resource_link "1041f862-046d-4f6c-907a-d66d2a8a6792" "http://www.sonnets.org/eliz.htm" %}}
 
 Spenser, Edmund. _Edmund Spenser's Poetry_. Edited by Hugh Maclean and Anne Lake Prescott. 3rd ed. New York: W. W. Norton, 1993.
 
